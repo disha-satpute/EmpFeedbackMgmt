@@ -5,7 +5,8 @@ These surveys are specifically designed to collect insights on different work-re
 issues like compensation, benefits, appraisals, policies,satisfaction, payments, work-load
 retention, politics, and many other factors
 
-**Installation**
-
-- just clone these Repository
-- git clone https://github.com/disha-satpute/EmpFeedbackMgmt.git
+## Installation
+- Just, Clone this repository - 
+````bash 
+git clone //github.com/disha-satpute/EmpFeedbackMgmt.git
+````
