@@ -8,4 +8,4 @@ retention, politics, and many other factors
 **Installation**
 
 - just clone these Repository
-Clone the repository : git clone https://github.com/disha-satpute/EmpFeedbackMgmt.git
+- git clone https://github.com/disha-satpute/EmpFeedbackMgmt.git
