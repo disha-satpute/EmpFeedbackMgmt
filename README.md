@@ -11,3 +11,4 @@ retention, politics, and many other factors.
 ````bash 
 git clone //github.com/disha-satpute/EmpFeedbackMgmt.git
 ````
+- Open the project in your preferred IDE (e.g., Visual Studio code) and build the project.
