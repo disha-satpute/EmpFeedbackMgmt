@@ -1,5 +1,4 @@
 # 👩🏼‍💻Employee Feedback Management
-
 - It is my micro-project towards the mainly PHP to develop basic webapp..
 - This project is a web-based application developed for managing employee feedback using PHP and MySQL.
 These surveys are specifically designed to collect insights on different work-related issues
